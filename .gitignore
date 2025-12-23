@@ -1,0 +1,13 @@
+.env
+*.env
+**/token*
+**/secrets*
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg-info/
+dist/
+build/
